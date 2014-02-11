@@ -1,0 +1,4 @@
+.watch-sidebar-body:last-child {
+	height: 500px;
+	overflow-y: scroll;
+}
